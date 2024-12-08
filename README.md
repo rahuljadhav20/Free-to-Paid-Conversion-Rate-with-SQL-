@@ -4,7 +4,7 @@
 
 **Objective**
           - This project explores user engagement patterns on an e-learning platform, aiming to understand how free users transition to paying customers. It focuses on the timeline of student activities, including registration, content engagement, and purchases, to measure conversion rates and evaluate user behavior.
-====================================================================================================================================================================
+=============================================================================
 
 **Overview of the Database**
                 - The project utilizes a sample database, db_course_conversions, containing three key tables:
@@ -12,13 +12,13 @@
 2.	student_engagement: Tracks content engagement data, such as student_id and date_watched.
 3.	student_purchases: Logs purchase details with student_id and date_purchased.
 
-===========================================================================================
+=============================================================================
 **Key Questions Addressed**
 1.	What percentage of students convert from free users to paying customers?
 2.	How much time typically passes between registration and the first engagement?
 3.	What is the average duration from the first engagement to the first purchase?
 
-============================================================================================
+=============================================================================
 **Implementation Details**
 
 **Part 1: Extracting Key Engagement Metrics**
@@ -37,19 +37,19 @@
 3. Average time between first engagement and purchase.
 4. Aggregations and metrics are rounded for clarity and practical interpretation.
 
-===========================================================================================
+=============================================================================
 ### Findings ###
 1.	The percentage of students convert from free users to paying customers is 11%
 2.	Approx 3:42 Hours time typically passes between registration and the first engagement.
 3.	26 days is the average duration from the first engagement to the first purchase.
 
-===========================================================================================
+=============================================================================
 **Results and Insights:**
 1.	Conversion Rate: Helps assess the effectiveness of the platform’s engagement-to-purchase funnel.
 2.	Behavioral Timelines: Highlights the average time it takes for students to move from registration to engagement and engagement to purchase, offering actionable insights for marketing and retention strategies.
 3.	Optimization Opportunities: Identifies patterns that can guide improvements in user onboarding, content delivery, and promotional campaigns.
 
-===========================================================================================
+=============================================================================
 **Use Case Scenarios**
 
 This project serves as a blueprint for companies in the e-learning industry to:
@@ -59,4 +59,4 @@ This project serves as a blueprint for companies in the e-learning industry to:
 
 By leveraging SQL’s analytical power, this project provides a data-driven foundation for boosting customer acquisition and retention.
 
-===========================================================================================
+=============================================================================
