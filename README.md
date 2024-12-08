@@ -1,6 +1,7 @@
 # SQL Project #
 # Free-to-Paid-Conversion-Rate-with-SQL-
 ===========================================================================
+
 **Objective**
           - This project explores user engagement patterns on an e-learning platform, aiming to understand how free users transition to paying customers. It focuses on the timeline of student activities, including registration, content engagement, and purchases, to measure conversion rates and evaluate user behavior.
 ===========================================================================
